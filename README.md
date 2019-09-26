@@ -64,4 +64,3 @@ Maven | 项目构建管理  | [http://maven.apache.org/](http://maven.apache.org
 # Hello World
 ## 有钱的打赏个硬币
 #### 有钱的打赏个硬币多少都接着
-![微信](doc/截图/微信收钱码lite.png)![支付宝](doc/截图/支付宝收钱码lite.png)
